@@ -1,0 +1,2 @@
+%{"geef": {:git, "https://github.com/carlosmn/geef.git", "28e890ca9573184ac5d83fb65ccc7dd6afa94fe8", [ref: "28e890ca9573184ac5d83fb65ccc7dd6afa94fe8"]},
+  "libgit2": {:git, "https://github.com/libgit2/libgit2.git", "fc3ef147ec592ddcd83c9fd817ef74f0e2d72ec3", []}}
